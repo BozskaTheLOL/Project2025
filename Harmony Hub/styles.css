@@ -1,0 +1,117 @@
+/* Styles */
+body
+{
+    font-family: Arial, sans-serif;
+    background-image: url(Hatter/hatter2.jpg);
+}
+
+h1
+{
+    color: white;
+    font-size: 3em;
+    margin-top: 30px;
+}
+
+h2 
+{
+    color: white;
+}
+
+p
+{
+    color: white;
+}
+
+#kiaz
+{
+	padding          : 4px 12px  ;
+	border-radius    : 4px       ;
+	background-color : #61dafb ;
+	font-size        : .8em      ;
+	color            : #FFF    ;
+	text-decoration  : none      ;
+}
+
+        
+#tartalom
+{
+	margin           : 32px 80px ;
+}
+
+        
+#pfp
+{
+	border-radius: 50%;
+	height: 55px;
+	width: 55px;
+    display: inline-block;
+    background-position: 0px-21 px;
+    background-repeat: no-repeat;
+}
+
+/* Button styles */
+input[type='button']
+{
+    background-color: #61dafb;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+input[type='button']:hover
+{
+    background-color: #21a1f1;
+}
+
+input[type='submit']
+{
+    background-color: #4da8b4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+input[type='submit']:hover
+{
+    background-color: #1c9cc4;
+}
+
+#feltolt
+{
+    background-color: #4da8b4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+a {text-decoration: none; color: #ffffff;
+    background-color: orangered; text-align: center;
+    border-color: orangered; border-style: outset;
+    border-width: 3px; font-size: 14pt;
+    font-weight: bold; font-family: Times New Roman;
+    margin-top: 5px; margin-right: 0px;
+    margin-bottom: 5px; margin-left: 0px;
+    padding-top: 0px; padding-right: 5px;
+    padding-bottom: 0px; padding-left: 5px}
+
+
+ul {list-style-type: none; text-align: center;
+        padding: 0px; float: left; width: 100%;}
+        
+li {display: inline}
+
+
+
+
